@@ -1,0 +1,157 @@
+import { Property, Testimonial } from './types';
+
+export const PHONE_NUMBER = "5586994851583";
+export const WHATSAPP_LINK = `https://wa.me/${PHONE_NUMBER}`;
+
+export const PROPERTIES: Property[] = [
+  {
+    id: 'mansion-alpha',
+    code: 'LS-LUX-01',
+    title: 'Mansão Alphaville',
+    type: 'Casa',
+    price: 2450000,
+    location: 'Alphaville, Teresina - PI',
+    description: 'Uma obra-prima da arquitetura contemporânea. Esta residência redefine o conceito de luxo e conforto. Com pé direito duplo imponente na sala de estar, integração fluida com a área gourmet e uma piscina aquecida com borda infinita. Acabamentos em mármore importado, automação residencial completa e sistema de energia solar. A suíte master conta com closet walk-in e banheira de hidromassagem com vista privativa.',
+    specs: {
+      bedrooms: 4,
+      bathrooms: 5,
+      area: 320,
+      parking: 3,
+    },
+    features: ['Piscina Aquecida', 'Automação Total', 'Energia Solar', 'Closet Walk-in', 'Área Gourmet'],
+    images: [
+      'https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=1600&auto=format&fit=crop', // Fachada Mansão
+      'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1600&auto=format&fit=crop', // Sala Pé Direito
+      'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&auto=format&fit=crop', // Piscina
+      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1600&auto=format&fit=crop', // Quarto
+      'https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?q=80&w=1600&auto=format&fit=crop', // Banheiro Luxo
+    ],
+    financials: {
+      entry: 500000,
+      installments: 18500,
+      isMCMV: false,
+      acceptsFGTS: false,
+    },
+    feeling: {
+      style: 'Luxo',
+      text: 'Exclusividade e imponência para quem exige o melhor.',
+    }
+  },
+  {
+    id: 'horizon-jockey',
+    code: 'LS-APT-05',
+    title: 'Edifício Horizon Premium',
+    type: 'Apartamento',
+    price: 980000,
+    location: 'Jockey, Teresina - PI',
+    description: 'Sofisticação e praticidade no coração da Zona Leste. O Horizon Premium oferece uma vista panorâmica inigualável da cidade. Apartamento totalmente projetado para aproveitar a luz natural, com varanda gourmet integrada à sala de estar. O condomínio dispõe de rooftop com lounge, academia equipada e segurança inteligente 24 horas. Ideal para executivos e famílias modernas.',
+    specs: {
+      bedrooms: 3,
+      bathrooms: 3,
+      area: 125,
+      parking: 2,
+    },
+    features: ['Varanda Gourmet', 'Rooftop Lounge', 'Academia Panorâmica', 'Andar Alto', 'Fechadura Digital'],
+    images: [
+      'https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?q=80&w=1600&auto=format&fit=crop', // Apartamento Moderno
+      'https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1600&auto=format&fit=crop', // Sala Clean
+      'https://images.unsplash.com/photo-1560185007-cde436f6a4d0?q=80&w=1600&auto=format&fit=crop', // Varanda
+      'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=1600&auto=format&fit=crop', // Cozinha
+    ],
+    financials: {
+      entry: 200000,
+      installments: 7500,
+      isMCMV: false,
+      acceptsFGTS: true,
+    },
+    feeling: {
+      style: 'Moderno',
+      text: 'Viver no topo, com a cidade aos seus pés e total conveniência.',
+    }
+  },
+  {
+    id: 'terras-alpha-sul',
+    code: 'LS-CS-12',
+    title: 'Casa Terras Alpha',
+    type: 'Casa',
+    price: 680000,
+    location: 'Zona Sul, Teresina - PI',
+    description: 'Casa térrea recém-construída em condomínio fechado de alto padrão na Zona Sul. Projeto paisagístico encantador e acabamento em porcelanato tipo A. A casa possui conceito aberto, cozinha com ilha e uma área de lazer privativa compacta com churrasqueira. O condomínio oferece clube completo com quadras de tênis e piscinas.',
+    specs: {
+      bedrooms: 3,
+      bathrooms: 2,
+      area: 140,
+      parking: 2,
+    },
+    features: ['Condomínio Fechado', 'Churrasqueira', 'Conceito Aberto', 'Segurança Armada', 'Clube Completo'],
+    images: [
+      'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=1600&auto=format&fit=crop', // Casa Térrea Moderna
+      'https://images.unsplash.com/photo-1556912173-3db9963f6bee?q=80&w=1600&auto=format&fit=crop', // Cozinha Ilha
+      'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1600&auto=format&fit=crop', // Banheiro Clean
+      'https://images.unsplash.com/photo-1595846519845-68e298c2edd8?q=80&w=1600&auto=format&fit=crop', // Quarto
+    ],
+    financials: {
+      entry: 136000,
+      installments: 4200,
+      isMCMV: false,
+      acceptsFGTS: true,
+    },
+    feeling: {
+      style: 'Família',
+      text: 'Segurança e liberdade para as crianças brincarem na rua.',
+    }
+  },
+  {
+    id: 'reserva-flores',
+    code: 'LS-MCMV-99',
+    title: 'Reserva das Flores',
+    type: 'Apartamento',
+    price: 195000,
+    location: 'Uruguai, Teresina - PI',
+    description: 'A oportunidade perfeita para sair do aluguel! Apartamento aconchegante próximo a faculdades e supermercados. O condomínio é super organizado, possui guarita elevada e playground. Financiamento facilitado pelo programa Minha Casa Minha Vida, com subsídio garantido para rendas compatíveis.',
+    specs: {
+      bedrooms: 2,
+      bathrooms: 1,
+      area: 58,
+      parking: 1,
+    },
+    features: ['MCMV', 'Subsídio', 'Próximo à Faculdade', 'Portaria 24h', 'Playground'],
+    images: [
+      'https://drive.google.com/uc?export=view&id=1abwN1m8Ji5qmCH7K8lsvqr_1gnPVY1K6', // Sala Apartamento Pequeno
+      'https://drive.google.com/uc?export=view&id=1abwN1m8Ji5qmCH7K8lsvqr_1gnPVY1K6', // Cozinha Compacta
+      'https://drive.google.com/uc?export=view&id=1abwN1m8Ji5qmCH7K8lsvqr_1gnPVY1K6', // Quarto Simples
+    ],
+    financials: {
+      entry: 1000,
+      installments: 650,
+      isMCMV: true,
+      acceptsFGTS: true,
+    },
+    feeling: {
+      style: 'Primeiro Imóvel',
+      text: 'O orgulho de ter as chaves do que é seu.',
+    }
+  }
+];
+
+export const TESTIMONIALS: Testimonial[] = [
+  {
+    id: '1',
+    name: 'Ana Cláudia',
+    role: 'Cliente verificada',
+    text: 'Atendimento claro e direto. Consegui entender tudo sobre meu financiamento sem complicação.',
+  },
+  {
+    id: '2',
+    name: 'Carlos Mendes',
+    role: 'Comprador em Teresina',
+    text: 'O Lucas explicou tudo com clareza. Eu tinha medo da burocracia, mas a consultoria resolveu tudo.',
+  },
+  {
+    id: '3',
+    name: 'Família Souza',
+    role: 'Primeiro Imóvel',
+    text: 'Realizamos o sonho da casa própria com a segurança de quem entende do assunto.',
+  }
+
+];
