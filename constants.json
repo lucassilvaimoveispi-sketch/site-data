@@ -33,8 +33,8 @@
       "financials": {
         "entry": 500000,
         "installments": 18500,
-        "isMCMV": false,
-        "acceptsFGTS": false
+        "isMCMV": true,
+        "acceptsFGTS": true
       },
       "feeling": {
         "style": "Luxo",
@@ -176,4 +176,5 @@
     }
   ]
 }
+
 
