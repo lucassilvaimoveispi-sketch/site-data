@@ -1,6 +1,6 @@
 {
   "PHONE_NUMBER": "5586994851583",
-  "WHATSAPP_LINK": "https://wa.me/5586994851583",
+  "WHATSAPP_LINK": "https://wa.me/5586994851583 ",
   "PROPERTIES": [
     {
       "id": "mansion-alpha",
@@ -8,21 +8,17 @@
       "title": "Mansão Alphaville",
       "type": "Casa",
       "price": 2450000,
-
       "city": "Teresina",
       "zone": "Zona Leste",
       "district": "Alphaville",
-
       "location": "Alphaville, Teresina - PI",
       "description": "Uma obra-prima da arquitetura contemporânea. Esta residência redefine o conceito de luxo e conforto. Com pé direito duplo imponente na sala de estar, integração fluida com a área gourmet e uma piscina aquecida com borda infinita. Acabamentos em mármore importado, automação residencial completa e sistema de energia solar. A suíte master conta com closet walk-in e banheira de hidromassagem com vista privativa.",
-
       "specs": {
         "bedrooms": 4,
         "bathrooms": 5,
         "area": 320,
         "parking": 3
       },
-
       "features": [
         "Piscina Aquecida",
         "Automação Total",
@@ -30,7 +26,6 @@
         "Closet Walk-in",
         "Área Gourmet"
       ],
-
       "images": [
         "https://archshop.com.br/_next/image?url=https%3A%2F%2Fadmin.archshop.com.br%2Fuploads%2F001_e7e098ddbe.jpg&w=1080&q=100",
         "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1600&auto=format&fit=crop",
@@ -38,41 +33,34 @@
         "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1600&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?q=80&w=1600&auto=format&fit=crop"
       ],
-
       "financials": {
         "entry": 500000,
         "installments": 18500,
         "isMCMV": true,
         "acceptsFGTS": true
       },
-
       "feeling": {
         "style": "Luxo",
         "text": "Exclusividade e imponência para quem exige o melhor."
       }
     },
-
     {
       "id": "horizon-jockey",
       "code": "LS-APT-05",
       "title": "Edifício Horizon Premium",
       "type": "Apartamento",
       "price": 980000,
-
       "city": "Teresina",
       "zone": "Zona Leste",
       "district": "Jockey",
-
       "location": "Jockey, Teresina - PI",
       "description": "Sofisticação e praticidade no coração da Zona Leste. O Horizon Premium oferece uma vista panorâmica inigualável da cidade. Apartamento totalmente projetado para aproveitar a luz natural, com varanda gourmet integrada à sala de estar. O condomínio dispõe de rooftop com lounge, academia equipada e segurança inteligente 24 horas. Ideal para executivos e famílias modernas.",
-
       "specs": {
         "bedrooms": 3,
         "bathrooms": 3,
         "area": 125,
         "parking": 2
       },
-
       "features": [
         "Varanda Gourmet",
         "Rooftop Lounge",
@@ -80,48 +68,40 @@
         "Andar Alto",
         "Fechadura Digital"
       ],
-
       "images": [
         "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?q=80&w=1600&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1600&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?q=80&w=1600&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=1600&auto=format&fit=crop"
       ],
-
       "financials": {
         "entry": 200000,
         "installments": 7500,
         "isMCMV": false,
         "acceptsFGTS": true
       },
-
       "feeling": {
         "style": "Moderno",
         "text": "Viver no topo, com a cidade aos seus pés e total conveniência."
       }
     },
-
     {
       "id": "terras-alpha-sul",
       "code": "LS-CS-12",
       "title": "Casa Terras Alpha",
       "type": "Casa",
       "price": 680000,
-
       "city": "Teresina",
       "zone": "Zona Sul",
       "district": "Terras Alpha",
-
       "location": "Zona Sul, Teresina - PI",
       "description": "Casa térrea recém-construída em condomínio fechado de alto padrão na Zona Sul. Projeto paisagístico encantador e acabamento em porcelanato tipo A. A casa possui conceito aberto, cozinha com ilha e uma área de lazer privativa compacta com churrasqueira. O condomínio oferece clube completo com quadras de tênis e piscinas.",
-
       "specs": {
         "bedrooms": 3,
         "bathrooms": 2,
         "area": 140,
         "parking": 2
       },
-
       "features": [
         "Condomínio Fechado",
         "Churrasqueira",
@@ -129,48 +109,40 @@
         "Segurança Armada",
         "Clube Completo"
       ],
-
       "images": [
         "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=1600&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1556912173-3db9963f6bee?q=80&w=1600&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1600&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1595846519845-68e298c2edd8?q=80&w=1600&auto=format&fit=crop"
       ],
-
       "financials": {
         "entry": 136000,
         "installments": 4200,
         "isMCMV": false,
         "acceptsFGTS": true
       },
-
       "feeling": {
         "style": "Família",
         "text": "Segurança e liberdade para as crianças brincarem na rua."
       }
     },
-
     {
       "id": "reserva-flores",
       "code": "LS-MCMV-99",
       "title": "Reserva das Flores",
       "type": "Apartamento",
       "price": 195000,
-
       "city": "Teresina",
       "zone": "Zona Leste",
       "district": "Uruguai",
-
       "location": "Uruguai, Teresina - PI",
       "description": "A oportunidade perfeita para sair do aluguel! Apartamento aconchegante próximo a faculdades e supermercados. O condomínio é super organizado, possui guarita elevada e playground. Financiamento facilitado pelo programa Minha Casa Minha Vida, com subsídio garantido para rendas compatíveis.",
-
       "specs": {
         "bedrooms": 2,
         "bathrooms": 1,
         "area": 58,
         "parking": 1
       },
-
       "features": [
         "MCMV",
         "Subsídio",
@@ -178,27 +150,103 @@
         "Portaria 24h",
         "Playground"
       ],
-
       "images": [
         "https://drive.google.com/uc?export=view&id=1abwN1m8Ji5qmCH7K8lsvqr_1gnPVY1K6",
         "https://drive.usercontent.google.com/download?id=1abwN1m8Ji5qmCH7K8lsvqr_1gnPVY1K6",
         "https://i.postimg.cc/fT493bqn/imovel.webp"
       ],
-
       "financials": {
         "entry": 1000,
         "installments": 650,
         "isMCMV": true,
         "acceptsFGTS": true
       },
-
       "feeling": {
         "style": "Primeiro Imóvel",
         "text": "O orgulho de ter as chaves do que é seu."
       }
+    },
+    {
+      "id": "timon-centro-100",
+      "code": "TS-CAS-01",
+      "title": "Casa Rua 100",
+      "type": "Casa",
+      "price": 280000,
+      "city": "Timon",
+      "zone": "Centro",
+      "district": "Rua 100",
+      "location": "Rua 100, Timon - MA",
+      "description": "Casa térrea em excelente localização no coração de Timon, próxima ao comércio da Rua 100. Composta por três quartos sendo um suíte, sala ampla, cozinha com área de serviço e vaga de garagem para dois carros. Acabamento em piso cerâmico, esquadrias em alumínio e grades de segurança. Ótima opção para quem busca praticidade e conforto na região central da cidade.",
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area": 85,
+        "parking": 2
+      },
+      "features": [
+        "Ótima Localização",
+        "Centro Comercial",
+        "Vagas para 2 Carros",
+        "Acabamento em Cerâmica",
+        "Segurança"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=1600&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1600&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1595846519845-68e298c2edd8?q=80&w=1600&auto=format&fit=crop"
+      ],
+      "financials": {
+        "entry": 28000,
+        "installments": 1800,
+        "isMCMV": true,
+        "acceptsFGTS": true
+      },
+      "feeling": {
+        "style": "Praticidade",
+        "text": "Morar no centro da cidade com toda a conveniência ao seu alcance."
+      }
+    },
+    {
+      "id": "altos-vala-bec",
+      "code": "AS-CAS-02",
+      "title": "Casa Vala do Bec",
+      "type": "Casa",
+      "price": 350000,
+      "city": "Altos",
+      "zone": "Expansão",
+      "district": "Vala do Bec",
+      "location": "Vala do Bec, Altos - PI",
+      "description": "Casa térrea nova em bairro em plena expansão em Altos. Construção moderna com três quartos, sendo uma suíte master com closet, sala de estar/jantar integrada, cozinha americana e área gourmet nos fundos. Garagem para dois carros e terreno amplo. Infraestrutura completa com água, luz e asfalto. Perfeita para famílias que buscam qualidade de vida fora da capital.",
+      "specs": {
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "area": 120,
+        "parking": 2
+      },
+      "features": [
+        "Bairro em Expansão",
+        "Área Gourmet",
+        "Cozinha Americana",
+        "Terreno Amplo",
+        "Infraestrutura Completa"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1556912173-3db9963f6bee?q=80&w=1600&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?q=80&w=1600&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&auto=format&fit=crop"
+      ],
+      "financials": {
+        "entry": 35000,
+        "installments": 2300,
+        "isMCMV": true,
+        "acceptsFGTS": true
+      },
+      "feeling": {
+        "style": "Conforto",
+        "text": "Tranquilidade e espaço para sua família crescer com qualidade de vida."
+      }
     }
   ],
-
   "TESTIMONIALS": [
     {
       "id": "1",
