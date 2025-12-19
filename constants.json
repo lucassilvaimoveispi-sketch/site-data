@@ -21,7 +21,7 @@
       },
       "features": [
         "Piscina Aquecida",
-        "Automação Total",
+        "A0utomação Total",
         "Energia Solar",
         "Closet Walk-in",
         "Área Gourmet"
@@ -42,128 +42,6 @@
       "feeling": {
         "style": "Luxo",
         "text": "Exclusividade e imponência para quem exige o melhor."
-      }
-    },
-    {
-      "id": "horizon-jockey",
-      "code": "LS-APT-05",
-      "title": "Edifício Horizon Premium",
-      "type": "Apartamento",
-      "price": 980000,
-      "city": "Teresina",
-      "zone": "Zona Leste",
-      "district": "Jockey",
-      "location": "Jockey, Teresina - PI",
-      "description": "Sofisticação e praticidade no coração da Zona Leste. O Horizon Premium oferece uma vista panorâmica inigualável da cidade. Apartamento totalmente projetado para aproveitar a luz natural, com varanda gourmet integrada à sala de estar. O condomínio dispõe de rooftop com lounge, academia equipada e segurança inteligente 24 horas. Ideal para executivos e famílias modernas.",
-      "specs": {
-        "bedrooms": 3,
-        "bathrooms": 3,
-        "area": 125,
-        "parking": 2
-      },
-      "features": [
-        "Varanda Gourmet",
-        "Rooftop Lounge",
-        "Academia Panorâmica",
-        "Andar Alto",
-        "Fechadura Digital"
-      ],
-      "images": [
-        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?q=80&w=1600&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1600&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?q=80&w=1600&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=1600&auto=format&fit=crop"
-      ],
-      "financials": {
-        "entry": 200000,
-        "installments": 7500,
-        "isMCMV": false,
-        "acceptsFGTS": true
-      },
-      "feeling": {
-        "style": "Moderno",
-        "text": "Viver no topo, com a cidade aos seus pés e total conveniência."
-      }
-    },
-    {
-      "id": "terras-alpha-sul",
-      "code": "LS-CS-12",
-      "title": "Casa Terras Alpha",
-      "type": "Casa",
-      "price": 680000,
-      "city": "Teresina",
-      "zone": "Zona Sul",
-      "district": "Terras Alpha",
-      "location": "Zona Sul, Teresina - PI",
-      "description": "Casa térrea recém-construída em condomínio fechado de alto padrão na Zona Sul. Projeto paisagístico encantador e acabamento em porcelanato tipo A. A casa possui conceito aberto, cozinha com ilha e uma área de lazer privativa compacta com churrasqueira. O condomínio oferece clube completo com quadras de tênis e piscinas.",
-      "specs": {
-        "bedrooms": 3,
-        "bathrooms": 2,
-        "area": 140,
-        "parking": 2
-      },
-      "features": [
-        "Condomínio Fechado",
-        "Churrasqueira",
-        "Conceito Aberto",
-        "Segurança Armada",
-        "Clube Completo"
-      ],
-      "images": [
-        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=1600&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1556912173-3db9963f6bee?q=80&w=1600&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1600&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1595846519845-68e298c2edd8?q=80&w=1600&auto=format&fit=crop"
-      ],
-      "financials": {
-        "entry": 136000,
-        "installments": 4200,
-        "isMCMV": false,
-        "acceptsFGTS": true
-      },
-      "feeling": {
-        "style": "Família",
-        "text": "Segurança e liberdade para as crianças brincarem na rua."
-      }
-    },
-    {
-      "id": "reserva-flores",
-      "code": "LS-MCMV-99",
-      "title": "Reserva das Flores",
-      "type": "Apartamento",
-      "price": 195000,
-      "city": "Teresina",
-      "zone": "Zona Leste",
-      "district": "Uruguai",
-      "location": "Uruguai, Teresina - PI",
-      "description": "A oportunidade perfeita para sair do aluguel! Apartamento aconchegante próximo a faculdades e supermercados. O condomínio é super organizado, possui guarita elevada e playground. Financiamento facilitado pelo programa Minha Casa Minha Vida, com subsídio garantido para rendas compatíveis.",
-      "specs": {
-        "bedrooms": 2,
-        "bathrooms": 1,
-        "area": 58,
-        "parking": 1
-      },
-      "features": [
-        "MCMV",
-        "Subsídio",
-        "Próximo à Faculdade",
-        "Portaria 24h",
-        "Playground"
-      ],
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1abwN1m8Ji5qmCH7K8lsvqr_1gnPVY1K6",
-        "https://drive.usercontent.google.com/download?id=1abwN1m8Ji5qmCH7K8lsvqr_1gnPVY1K6",
-        "https://i.postimg.cc/fT493bqn/imovel.webp"
-      ],
-      "financials": {
-        "entry": 1000,
-        "installments": 650,
-        "isMCMV": true,
-        "acceptsFGTS": true
-      },
-      "feeling": {
-        "style": "Primeiro Imóvel",
-        "text": "O orgulho de ter as chaves do que é seu."
       }
     },
     {
